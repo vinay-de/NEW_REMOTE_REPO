@@ -1,1 +1,3 @@
 # NEW_REMOTE_REPO
+
+New line
